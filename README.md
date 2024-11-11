@@ -74,6 +74,5 @@ WHERE Specialite.nomSpec = 'Informatique';
 
 ## Auteur
 
-**Nom** : Jiordi viera
-
+**Nom** : Jiordi viera <br>
 **Contact** : jiordikengne@gmail.com
